@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 -*-
 # ToolName   : HTTPSMultiFlooder
-# Author     : R0b327
+# Author     : B3RT1337
 # License    : MIT
 # Language   : Python
 # Env        : #!/usr/bin/env python3
